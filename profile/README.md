@@ -5,11 +5,12 @@ We are making an AI unparallel to any other AI in existence. It is called M.A.G.
 
 We treasure our community and all of their contributions. We have many guidlines in each of our repositories outlining ways you can contribute. At any point, you have any questions, please do not hesistate to [email us.](deepshiftlabs@outlook.com) You can also freely use the GitHub Discussions to discuss with us. 
 
-If you want to learn more about us and what we do, please visit our [website](deepshift.dev), [YouTube channel](https://www.youtube.com/channel/UC6nu2aGbAEX3yy5b0W9GBIg), and [Medium](https://deepshiftlabs.medium.com/) accounts.
+If you want to learn more about us and what we do, please visit our [website](deepshift.dev), [YouTube channel](https://www.youtube.com/channel/UC6nu2aGbAEX3yy5b0W9GBIg), and [Medium](https://deepshiftlabs.medium.com/) accounts. If you want to financially support us, please visit our [OpenCollective](https://opencollective.com/deepshift-labs)
 
 If you are interested, please proceed to one of our wonderful repositories!
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&repo=MAGIST-Algorithm)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&repo=Project-Zeta)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 **Here are some ideas to get you started:**
