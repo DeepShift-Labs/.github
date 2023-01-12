@@ -9,8 +9,8 @@ If you want to learn more about us and what we do, please visit our [website](de
 
 If you are interested, please proceed to one of our wonderful repositories!
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DeepShift-Labs&theme=cobalt&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DeepShift-Labs&theme=cobalt&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
 <!--
 
 **Here are some ideas to get you started:**
